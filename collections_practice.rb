@@ -26,7 +26,7 @@ end
 # end
 
 array = ["blake", "ashley", "scott"]
-def swap_elements(array)
+def swap_elements(array, index, destination_index)
   array[index], array[destination_index] = array[destination_index], array[index]
   array
 end
