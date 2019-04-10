@@ -20,17 +20,8 @@ end
 end
 
 #Question 4
-# array = ["blake", "ashley", "scott"]
-# def swap_elements(array, index, destination_index)
-#   array[index], array[index] = array[destination_index], array[destination_index]
-# end
-
-# array = ["blake", "ashley", "scott"]
-# def swap_elements(array, index, destination_index)
-#   array[index], array[destination_index] = array[destination_index], array[index]
-#   array
-# end
 def swap_elements (array)
   array[1], array[2] = array[2], array[1]
   array
 end
+
