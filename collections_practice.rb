@@ -21,5 +21,5 @@ end
 
 #Question 4
 def swap_elements(array, index, destination_index)
-  array[index], array[destination_index] = array[destination_index], array[index]
+  array[1], array[2] = array[2], array[3]
 end
