@@ -51,3 +51,8 @@ def sum_array(arr_sum)
     sum + num
   end
 end
+
+#Question 9
+def add_s
+  
+end
