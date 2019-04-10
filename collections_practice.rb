@@ -54,5 +54,11 @@ end
 
 #Question 9
 def add_s
-  
+   array.map.with_index do |word, index|
+    if index == 1 
+      word 
+    else 
+      word + "s"
+    end
+  end
 end
