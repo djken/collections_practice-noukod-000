@@ -40,7 +40,7 @@ end
 
 #Question 7
 def find_a(return_string_arr)
-  return_string_arr.map do |element|
+  return_string_arr.select do |element|
     element.start_with?("a")
   end
 end
