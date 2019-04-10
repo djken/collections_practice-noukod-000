@@ -31,3 +31,4 @@ def reverse_array(int_array)
 end
 
 #Question 6
+def 
