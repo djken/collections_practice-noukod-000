@@ -20,4 +20,6 @@ end
 end
 
 #Question 4
-def 
+def swap_elements(array, index, )
+  
+end
