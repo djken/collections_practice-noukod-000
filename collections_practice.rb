@@ -37,3 +37,6 @@ def kesha_maker(string_array)
     rd_element
   end
 end
+
+#Question 7
+def 
