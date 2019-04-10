@@ -44,3 +44,8 @@ def find_a(return_string_arr)
     element.start_with?("a")
   end
 end
+
+#Question 
+def sum_array
+  
+end
