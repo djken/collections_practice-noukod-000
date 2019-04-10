@@ -24,4 +24,4 @@ def swap_elements(array, index, destination_index)
   array[1], array[3] = array[3], array[2]
   array
 end
-swap_elements["blake", "ashley", "scott"]
+swap_elements(["blake", "ashley", "scott"])
