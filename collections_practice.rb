@@ -55,10 +55,6 @@ end
 #Question 9
 def add_s(add_s_array)
    add_s_array.map.with_index do |word, index|
-    if index == 1 
-      word 
-    else 
-      word + "s"
-    end
+    if index == 1 ? word : word + "s" word
   end
 end
