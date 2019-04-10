@@ -32,8 +32,8 @@ end
 
 #Question 6
 def kesha_maker(string_array)
-  string_array.map do |element|
-    element[2] = "$"
-    element
+  string_array.map do |rd_element|
+    rd_element[2] = "$"
+    rd_element
   end
 end
