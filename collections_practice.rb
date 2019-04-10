@@ -20,6 +20,6 @@ end
 end
 
 #Question 4
-def swap_elements(array, index, )
+def swap_elements(array, index, destination_index)
   
 end
