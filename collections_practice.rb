@@ -46,6 +46,8 @@ def find_a(return_string_arr)
 end
 
 #Question 
-def sum_array
-  
+def sum_array(arr_sum)
+  arr_sum.inject do |sum, num|
+    sum + num
+  end
 end
