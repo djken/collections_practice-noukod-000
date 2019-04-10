@@ -31,4 +31,6 @@ def reverse_array(int_array)
 end
 
 #Question 6
-def 
+def kesha_maker(string_array)
+  
+end
